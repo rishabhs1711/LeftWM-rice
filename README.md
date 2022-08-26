@@ -1,2 +1,1 @@
-# LeftWM-rice
-No place like ~
+# No place like ~
